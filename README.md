@@ -88,3 +88,26 @@ Phase B Disposal Voltage	B相处理电压
 Phase C Disposal Voltage	C相处理电压
 Torque command to CU	扭矩命令控制器（CU：control unit控制器）
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RowID	SystemNumber	SystemName	TimeStampUTCSystem	EndTimeStampUTCSystem	TimeStampLocalSystem	EndDate	duration	StatusDescription		DataPointID	ErrorNumber	EventCategoryID1	EventCategoryID2	EventCategoryID3	EventCategoryID4	LossPower	TripComplete	WindSpeed
+10624	16112524	HHL-02	2016-8-31 21:33:26	2016-8-31 22:04:54	2016-9-1 5:33:26	2016-9-1 6:04:54	1889	Yaw runaway	偏航失控	17555	EVENT_222	13
+10625	16112528	HHL-06	2016-8-31 20:48:10	2016-8-31 21:20:34	2016-9-1 4:48:10	2016-9-1 5:20:34	1943	Gearbox oil over temperature	齿轮箱油温过高	17450	EVENT_077	1
+10626	16112528	HHL-06	2016-8-31 22:25:09	2016-8-31 22:26:08	2016-9-1 6:25:09	2016-9-1 6:26:08	59	Gearbox oil over temperature	齿轮箱油温过高	17450	EVENT_077	1
+...
+...
+...
+...
+
